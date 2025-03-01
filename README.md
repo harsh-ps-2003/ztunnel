@@ -3,6 +3,7 @@
 Ztunnel provides an implementation of the ztunnel component of
 [ambient mesh](https://istio.io/latest/blog/2022/introducing-ambient-mesh/).
 
+
 ## Feature Scope
 
 Ztunnel is intended to be a purpose built implementation of the node proxy in [ambient mesh](https://istio.io/latest/blog/2022/introducing-ambient-mesh/).
